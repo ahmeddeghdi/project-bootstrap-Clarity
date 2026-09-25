@@ -877,7 +877,16 @@
     text-decoration: underline;
 }
 
+.bg-color{
+    color: #E4540C;
+}
 
+
+.back-color{
+    color: #D84E0C;
+}
+
+/* edi colo line 885 and 880 */
 .margin-label-text{
     margin-left: 100px;
 }
