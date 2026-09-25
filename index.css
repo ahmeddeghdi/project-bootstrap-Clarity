@@ -1,12 +1,44 @@
 .card-one {
     width: 365px;
     height: 320px;
-    padding-inline: 0px;
+    padding-inline: 5px;
     padding-block: 30px;
     margin-top: 29px;
-    padding-left: 10px;
+    /* padding-left: -100px; */
+    transition: transform 0.2s;
+
 }
 
+.card-one:hover{
+    transform: translateY(-5px);
+    /* transform: scaleY(1.1); */
+    box-shadow: 0 8px 16px #00000026;
+}
+.card-two:hover{
+    transform: translateY(-5px);
+    /* transform: scaleY(1.1); */
+    box-shadow: 0 8px 16px #00000026;
+}
+.card-three:hover{
+    transform: translateY(-5px);
+    /* transform: scaleY(1.1); */
+    box-shadow: 0 8px 16px #00000026;
+}
+.card-four:hover{
+    transform: translateY(-5px);
+    /* transform: scaleY(1.1); */
+    box-shadow: 0 8px 16px #00000026;
+}
+.card-five:hover{
+    transform: translateY(-5px);
+    /* transform: scaleY(1.1); */
+    box-shadow: 0 8px 16px #00000026;
+}
+.card-six:hover{
+    transform: translateY(-5px);
+    /* transform: scaleY(1.1); */
+    box-shadow: 0 8px 16px #00000026;
+}
 .card-two {
     width: 370px;
     height: 320px;
