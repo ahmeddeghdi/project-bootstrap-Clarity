@@ -162,6 +162,37 @@
     margin-top: 0px;
     margin-left: 50px;
 }
+
+.card-one {
+        margin-left: 3px;
+
+    }
+
+    .card-two {
+        margin-left: 0px;
+
+    }
+
+    .card-three {
+        margin-left: -0px;
+
+    }
+
+    .card-four {
+        margin-left: 0px   ;
+
+    }
+
+    .card-five {
+        margin-left: 0px;
+
+    }
+
+    .card-six {
+        margin-left: 0px;
+
+    }
+
 }
 /* end sm */
 
